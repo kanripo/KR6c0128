@@ -1,23 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:59.012662
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:28
 #+TITLE: 般若波羅蜜多心經
 #+PROPERTY: CBETA_ID T08n0251
 #+PROPERTY: ID KR6c0128
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 251
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0128_T_001-0848a> 
 #+PROPERTY: JUAN 1
 ¶
-No.251[Nos.250,252-255,257]¶
+No. 251 [Nos. 250, 252-255, 257]¶
 
-大明太祖高皇帝御製序
-:PROPERTIES:
-:head: 大明太祖高皇帝御製《般若心經》¶
-序
-:END:
-¶
+* 大明太祖高皇帝御製《般若心經》¶
+序¶
 ¶
 
 二儀久判，萬物備周，子民者君君，育民者法¶
@@ -64,11 +60,7 @@ No.251[Nos.250,252-255,257]¶
 ¶
 ¶
 
-般若波羅蜜多心經序
-:PROPERTIES:
-:head: 般若波羅蜜多心經序
-:END:
-¶
+* 般若波羅蜜多心經序¶
 ¶
 唐釋慧忠撰¶
 
@@ -83,8 +75,7 @@ No.251[Nos.250,252-255,257]¶
 ¶
 ¶
 ¶
-
- 般若波羅蜜多心經¶
+般若波羅蜜多心經¶
 ¶
 唐三藏法師玄奘譯¶
 
